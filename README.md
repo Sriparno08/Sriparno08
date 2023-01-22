@@ -2,7 +2,7 @@
 
 <b><h3>About Me</h3></b>
 
-💻 I am a developer, currently developing HTML-only websites
+💻 I am an aspiring web developer, currently developing HTML-only websites
 
 ✍️ I am a technical writer, currently writing on interesting development topics
 
