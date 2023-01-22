@@ -4,7 +4,7 @@
 
 💻 I am a developer, currently developing HTML-only websites
 
-✍️ I am a blogger, currently writing on interesting development topics
+✍️ I am a technical writer, currently writing on interesting development topics
 
 🔓 I am an Open Source enthusiast, currently making small contributions to large-scale projects
 
