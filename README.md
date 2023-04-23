@@ -32,9 +32,23 @@
 <b><h3>Connect:</h3></b>
 
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="35" height="35">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="35" height="35">
-  <img src="https://user-images.githubusercontent.com/89148144/233822603-eb94999c-9385-49af-9745-b49debf545bf.svg" width="35" height="35">
-  <img src="https://user-images.githubusercontent.com/89148144/233822116-223b13cf-12b7-42bf-a864-7dd978c87812.svg" width="35" height="35">
-  <img src="https://user-images.githubusercontent.com/89148144/233822211-0ebf59ae-9651-49f9-a15e-d1d2efb028a4.svg" width="35" height="35">
+  <a href="https://www.linkedin.com/in/sriparno08/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="35" height="35">
+  </a>
+  
+  <a href="https://twitter.com/Sriparno08">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="35" height="35">
+  </a>
+  
+  <a href="https://www.showwcase.com/sriparno08">
+    <img src="https://user-images.githubusercontent.com/89148144/233822603-eb94999c-9385-49af-9745-b49debf545bf.svg" width="35" height="35">
+  </a>
+  
+  <a href="https://dev.to/sriparno08">
+    <img src="https://user-images.githubusercontent.com/89148144/233822116-223b13cf-12b7-42bf-a864-7dd978c87812.svg" width="35" height="35">
+  </a>
+  
+  <a href="https://sriparno.hashnode.dev/">
+    <img src="https://user-images.githubusercontent.com/89148144/233822211-0ebf59ae-9651-49f9-a15e-d1d2efb028a4.svg" width="35" height="35">
+  </a>
 </p>
