@@ -1,35 +1,37 @@
-<h1 align="center">👋 Hello, I am Sriparno!</h1>
+<h2 align="center">👋 Hello, I am Sriparno!</h2>
 
-<b><h3>About Me:</h3></b>
+<h3>About Me</h3>
 
-🌐 I am an aspiring web developer, working on getting a hold of CSS
+🕸️ Frontend Developer  
+✒️ Technical Writer  
+📖 Open Source Enthusiast
 
-✍️ I am a technical writer, writing articles on a diverse range of technical topics
-
-🔓 I am an Open Source enthusiast, making small contributions to large-scale projects
+<p> I'm a passionate frontend developer, currently on a mission to build beautiful responsive websites. I'm also a skilled technical writer, publishing SEO-optimized, insightful, and to-the-point technical articles on multiple platforms. Besides that, I regularly contribute to interesting open source projects to improve them a tiny bit every time.</p>
 
 <hr>
 
-<b><h3>Languages & Tools:</h3></b>
+<h3>Languages & Tools</h3>
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="35" height="35">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="35" height="35">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="35" height="35">
+  <img src="https://cdn.worldvectorlogo.com/logos/github-icon-1.svg" width="35" height="35">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="35" height="35">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="35" height="35">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="35" height="35">
+  <img src="https://cdn.worldvectorlogo.com/logos/notion-logo-1.svg" width="35" height="35">
+  <img src="https://github.com/Sriparno08/Sriparno08/assets/89148144/b8313692-5a55-4cde-82e1-d7ed8ebdc51c" width="35" height="35">
+  
 </p>
 
 <hr>
 
-<b><h3>Contribution Activity:</h3></b>
+<h3>Contribution Activity</h3>
 
 <img src="https://github-readme-stats.vercel.app/api?username=Sriparno08">
 
 <hr>
 
-<b><h3>Connect:</h3></b>
+<h3>Connect</h3>
 
 <p>
   <a href="https://www.linkedin.com/in/sriparno08/">
