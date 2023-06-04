@@ -19,7 +19,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="35" height="35">
   <img src="https://cdn.worldvectorlogo.com/logos/github-icon-1.svg" width="35" height="35">
   <img src="https://cdn.worldvectorlogo.com/logos/notion-logo-1.svg" width="35" height="35">
-  <img src="https://github.com/Sriparno08/Sriparno08/assets/89148144/b8313692-5a55-4cde-82e1-d7ed8ebdc51c" width="35" height="35">
+  <img src="https://github.com/Sriparno08/Sriparno08/assets/89148144/aeac40c7-8a00-46d4-8777-5d58a590fb0c" width="35" height="35">
   
 </p>
 
