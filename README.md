@@ -2,7 +2,7 @@
 
 <h3>About Me</h3>
 
-<p> I am a passionate frontend developer, currently on a mission to build beautiful responsive landing pages. I am also a skilled content writer, publishing insightful, to-the-point, and SEO-optimized articles on multiple platforms. Moreover, I regularly contribute to open source projects and improve them a tiny bit each time.</p>
+<p>I am a frontend developer building beautiful, responsive websites. Besides, I am a technical writer publishing informative, in-depth articles on multiple platforms. I am also an open source contributor who is improving projects a tiny bit with each contribution.</p>
 
 <hr>
 
@@ -15,8 +15,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="35" height="35">
   <img src="https://cdn.worldvectorlogo.com/logos/github-icon-1.svg" width="35" height="35">
   <img src="https://github.com/Sriparno08/Sriparno08/assets/89148144/d575bb6a-39c5-4ea8-a179-ae0acdffe2e8" width="35" height="35">
-  <img src="https://cdn.worldvectorlogo.com/logos/notion-logo-1.svg" width="35" height="35">
-  <img src="https://github.com/Sriparno08/Sriparno08/assets/89148144/aeac40c7-8a00-46d4-8777-5d58a590fb0c" width="35" height="35">
   
 </p>
 
@@ -33,7 +31,7 @@
 
 <hr>
 
-<h3>Connect</h3>
+<h3>Socials</h3>
 
 <p>
   <a href="https://www.linkedin.com/in/sriparnoroy/">
@@ -42,10 +40,6 @@
   
   <a href="https://twitter.com/Sriparno08">
     <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white">
-  </a>
-
-  <a href="https://codepen.io/Sriparno08">
-    <img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen">
   </a>
   
   <a href="https://www.showwcase.com/sriparno08">
@@ -60,7 +54,7 @@
     <img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode">
   </a>
 
-  <a href="https://hackernoon.com/u/sriparno08">
-    <img src="https://img.shields.io/badge/hackernoon-00FF00?style=for-the-badge&logo=hackernoon&logoColor=black">
+  <a href="https://codepen.io/Sriparno08">
+    <img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen">
   </a>
 </p>
