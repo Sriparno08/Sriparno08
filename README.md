@@ -11,10 +11,12 @@
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="35" height="35">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="35" height="35">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="35" height="35">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="35" height="35">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="35" height="35">
   <img src="https://cdn.worldvectorlogo.com/logos/github-icon-1.svg" width="35" height="35">
   <img src="https://github.com/Sriparno08/Sriparno08/assets/89148144/d575bb6a-39c5-4ea8-a179-ae0acdffe2e8" width="35" height="35">
+  <img src="https://www.svgrepo.com/show/354202/postman-icon.svg" width="35" height="35">
 </p>
 
 <hr>
