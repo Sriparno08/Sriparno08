@@ -1,8 +1,8 @@
-<h1 align="center">👋 Hello, I am Sriparno!</h1>
+<h1 align="center">👋 Hello, I'm Sriparno!</h1>
 
 <h3>About Me</h3>
 
-<p>I am a frontend developer building beautiful, responsive websites. Besides, I am a technical writer publishing informative, in-depth articles on multiple platforms. I am also an open source contributor who is improving projects a tiny bit with each contribution.</p>
+<p>I'm currently mastering the art of building beautiful, responsive and interactive websites as a frontend developer. Besides that, I'm publishing accurate, informative and comprehensive articles on multiple platforms as a technical writer. I'm also enhancing small to large-scale projects by a tiny bit with each contribution as an open-source contributor.</p>
 
 <hr>
 
@@ -37,10 +37,6 @@
 <p>
   <a href="https://www.linkedin.com/in/sriparnoroy/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin">
-  </a>
-
-  <a href="https://twitter.com/Sriparno08">
-    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white">
   </a>
 
   <a href="https://dev.to/sriparno08">
