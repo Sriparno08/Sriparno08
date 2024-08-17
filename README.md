@@ -2,7 +2,7 @@
 
 <h3>About Me</h3>
 
-<p>I'm currently mastering the art of building beautiful, responsive and interactive websites as a frontend developer. Besides that, I'm publishing accurate, informative and comprehensive articles on multiple platforms as a technical writer. I'm also enhancing small to large-scale projects by a tiny bit with each contribution as an open-source contributor.</p>
+<p>I'm currently mastering the art of building beautiful, responsive and interactive websites as a frontend developer. I'm also creating accurate, informative and comprehensive articles on multiple platforms as a technical writer. Besides that, I'm on a bid to play an effective part in the advancement of open source by being a consistent open source contributor and maintainer.</p>
 
 <hr>
 
@@ -32,22 +32,22 @@
 
 <hr>
 
-<h3>Socials</h3>
+<h3>Social Links</h3>
 
 <p>
   <a href="https://www.linkedin.com/in/sriparnoroy/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin">
   </a>
 
+  <a href="https://codepen.io/Sriparno08">
+    <img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen">
+  </a>
+
   <a href="https://dev.to/sriparno08">
-    <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to">
+    <img src="https://img.shields.io/badge/dev-0A0A0A?style=for-the-badge&logo=dev.to">
   </a>
 
   <a href="https://www.showwcase.com/sriparno08">
     <img src="https://img.shields.io/badge/showwcase-201C24?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAC0AAAApCAYAAAChi6CMAAAAAXNSR0IArs4c6QAABNBJREFUWEfVmWvIZVMYx38r5RJSchvEF5eSDxSlTBpCmHckl1zSmImYL2bKpdzSkFuJMm8j8cGQ67gkuYUyTYoPig/ywSUptxgK4zaZln7bs6Zl2+c9R+85Zze7Tue0zt7P/q9n/Z//86xnJcZw5Zx3B84FlgLHALtVZr8GNgIv+Ekp/TnfV6b5Gsg57wXcDVwE7AhsATZXdp2A4449DNyYUvplPu/dBjrnvBNwMHA8cDSwdxh+HXh20ItyziuBK4E/gA+BJ4CfKlB7ACuAo2JsbUrpji7QOecDgHOAQ4BvgW+AL4Ev/JRVakDnnE8AlgOnAvsCO1RG9dzzwDUppa/i/jJBJ3kSsF/cv/MQD34P/Aq8CnwGbCpAAvCDwBktG66QE3g7HLIxhYevBq5vcbF+9lPgUuD9MHpWcHdPQE/Wk5wL91bg96DQj8B7wfVXwrvr47vLhs67F1gt6PNjFgtjcP/WEy65AeZ1G3BycHQ+tKyf1ZMG6k0x+ChwZMu4E7wFeA44QtAGxUvByyXAmsrjRv6FsTyPAMeNC2mHnXeBS4JqTwLFeXr42qCGAb9Q0H/F8s4a2cDtMQHt3gUYNHLtggkCLqbXRdCuBq6LQccM9htibIugfwDkpst0WfDWZXBsBlDSDMRaeyeFXwxnh1q8BfwGLAYOBwQvpq2C/qQiv0tkklB2lD1nOC0vt739ACA23/8MsChu2CzodyquGt1XBX+clZczbgfnpDytXZVK7+4KfBcy7ARMUM3/gjZLLatQ6O0lKaVNOWe1+6H/IWnjmIyBtzSl9HRk29rL2t8gaAl+awWsfqg9oXGAGsXGbEppZc5ZNTPD1vE0K+hTOgJNFVFNTOGTlLlBE3C1zc6WB6pZuXToCkEfBrxcBWPj6VCRafO5gDM/nBhi8HjFAsdnBG1Z+VSV880+Zr0DLZTGnP1GoYb36DhVzGLpzZA6x/+JN3/lnO+sxNy07Swvby3NqC8c131SVLlztUtaX5dSWl5AS/jiVYsXBV6ZqVVlXGBGtVMyYc2CVSmlNQW0vC78Len8xUrQR33ROO/bAJxZlRVSZial9EYBLa8LyFVRTfmQxXgfl0nu83Ca2fm+SDqLrOnrnYu8Nht2BUAfwNuCYP2zzE1DDVpey2OLpD6Vo9bk2oHunEx21KAtkNwZXBwFk0vS51XqICvOx4ArUkoft0Fbgt4cKd1vs1Hfl/X8PSG/pvZmF197uvQulL5pl6ODnKPcmS8WFC+3QZcdtgHQrqz68rgKdp4VZw3gP82a2Mq/1rG57AO42fm00rooALpA14mmD6D1O5vCqabGv+hR7sw5qyJ1kdIn8EarU0r2W7ZdXZ6222SpOo2N7DCHuNFdnFKyLzIn6K5NwTDjk/q/2Z1bbwwD3bXFmRSoYXZHBr1denq7DER7xH2WpTVl7IE05egwTpsZ3TVMo3c3jNOm8aYcnRO0f0b715Zr6eoMMz6J/5veok2btvHOM5fYodvy7WuPaFl6vy3eroOlgQdF0ZKyRHW7M81enql7rc2iQec8Q0+3Iq2fHgdI1iWer+wyxv5eOQ2zwFcA1rfT9kj06CJoUGZBnIAdCxwK7AMcFM0UNxHtGBBQ+Xj6ZS0hV/3+GfDgSIX4APioXYIOCpS/AYwtnPrn4iAKAAAAAElFTkSuQmCC">
-  </a>
-
-  <a href="https://codepen.io/Sriparno08">
-    <img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen">
   </a>
 </p>
