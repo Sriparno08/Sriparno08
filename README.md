@@ -1,8 +1,8 @@
-<h1 align="center">👋 Hello, I'm Sriparno!</h1>
+<h1 align="center">👋 Hi, I'm Sriparno!</h1>
 
 <h3>About Me</h3>
 
-<p>I'm currently mastering the art of building beautiful, responsive and interactive websites as a frontend developer. I'm also creating accurate, informative and comprehensive articles on multiple platforms as a technical writer. Besides that, I'm on a bid to play an effective part in the advancement of open source by being a consistent open source contributor and maintainer.</p>
+<p>I'm a technical writer focused on creating clear, accurate, and comprehensive documentation for developers. Alongside writing, I'm learning to build responsive and interactive web applications as a frontend developer. I also contribute to and maintain open-source projects with a focus on improving developer experience and supporting the open-source ecosystem.</p>
 
 <hr>
 
@@ -22,14 +22,14 @@
 
 <table>
   <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=Sriparno08&hide_border=true"></td>
+    <td><img src="https://github-stats-extended.vercel.app/api?username=Sriparno08&hide_border=true"></td>
     <td><img src="https://streak-stats.demolab.com/?user=Sriparno08&hide_border=true"></td>
   </tr>
 </table>
 
 <hr>
 
-<h3>Social Links</h3>
+<h3>My Socials</h3>
 
 <p>
   <a href="https://www.linkedin.com/in/sriparnoroy/">
