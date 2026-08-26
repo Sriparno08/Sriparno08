@@ -2,7 +2,13 @@
 
 <h3>About Me</h3>
 
-<p>I'm a technical writer focused on creating clear, accurate, and comprehensive documentation for developers. Alongside writing, I'm learning to build responsive and interactive web applications as a frontend developer. I also contribute to and maintain open-source projects with a focus on improving developer experience and supporting the open-source ecosystem.</p>
+<p>
+I’m a technical writer, primarily creating content on frontend development, Linux, and developer tools.
+
+I’m a frontend developer, focused on learning and building practical, interactive web applications.
+
+I’m an open-source contributor and maintainer, helping create better, more intuitive developer experiences.
+</p>
 
 <hr>
 
@@ -24,7 +30,7 @@
 <table>
   <tr>
     <td><img src="https://github-stats-extended.vercel.app/api?username=Sriparno08&hide_border=true"></td>
-    <td><img src="https://streak-stats.demolab.com/?user=Sriparno08&hide_border=true"></td>
+    <td><img src="https://github-pr-stats-five.vercel.app/api/github-pr-stats?username=Sriparno08&mode=repo-aggregate&stats=total_pr,merged_pr&min_stars=1100&limit=3&fields=repo,stars,total,merged&theme=light"></td>
   </tr>
 </table>
 
